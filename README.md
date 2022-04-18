@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Himanshu Singh</h1>
-<h3 align="center">Passionate Network Engineer :man_technologist: from India :india: and currently working at <a href="https://www.arista.com/en/" target="_blank" rel="noreferrer"> Arista Networks</a><br>
+<h3 align="center">Passionate Network Engineer :man_technologist: from India :india:, currently working at <a href="https://www.arista.com/en/" target="_blank" rel="noreferrer"> Arista Networks</a><br>
 Interested in :rocket: NetDevOps :infinity:</h3>
 
 ## :mailbox_with_mail: How to reach me
