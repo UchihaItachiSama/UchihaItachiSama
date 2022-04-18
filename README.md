@@ -4,7 +4,7 @@ Interested in :rocket: NetDevOps :infinity:</h3>
 
 ## :mailbox_with_mail: How to reach me
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uchihaitachisama)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( www.linkedin.com/in/himanshu-singh-225961119)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/himanshu-singh-225961119/)
 
 ## :computer: Languages and Tools :hammer_and_wrench:
 <br>
