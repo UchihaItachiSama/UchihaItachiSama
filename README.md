@@ -31,3 +31,6 @@ Interested in :rocket: NetDevOps :infinity:</h3>
 <a href="https://github.com/arista-netdevops-community/arista_eos_automation_with_ncclient">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=arista-netdevops-community&theme=vue-dark&repo=arista_eos_automation_with_ncclient" />
 </a>
+<a href="https://github.com/UchihaItachiSama/netpktgen">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=uchihaitachisama&theme=vue-dark&repo=netpktgen" />
+</a>
